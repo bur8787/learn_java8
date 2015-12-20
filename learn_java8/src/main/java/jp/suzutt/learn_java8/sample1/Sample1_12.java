@@ -1,4 +1,4 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
 enum Card2{
 	SPADES(3), CLUBS(1), DIAMONDS(4), HEARTS(2);

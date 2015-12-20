@@ -1,6 +1,6 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
-public class Sample_1_13_2 {
+public class Sample1_13_2 {
 	public static void main(String[] args) {
 		B b = new B();
 		System.out.println(b.getClass());

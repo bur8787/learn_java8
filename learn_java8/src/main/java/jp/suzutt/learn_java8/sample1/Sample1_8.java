@@ -1,4 +1,4 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
 class Foo1_8 {
 	final int num1 = 10;

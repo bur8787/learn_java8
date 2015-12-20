@@ -1,4 +1,4 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
 public class Sample1_11 {
 	public static void main(String[] args) {

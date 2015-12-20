@@ -1,7 +1,7 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
-public class Sample1_2 {
-	static int num;
+public class Sample1_3 {
+	static Integer num;
 	public static void main(String[] args) {
 		switch(num){
 			case 0:

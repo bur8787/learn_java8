@@ -1,4 +1,4 @@
-package jp.suzutt.learn_java8;
+package jp.suzutt.learn_java8.sample1;
 
 public class Sample1_9 {
 	int instanceVal;
